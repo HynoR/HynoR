@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **HynoR/HynoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-专业编写、生产、倾倒各种互联网垃圾和代码垃圾
+### 专业编写、生产、倾倒各种互联网垃圾和代码垃圾
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HynoR)](https://github.com/anuraghazra/github-readme-stats)
