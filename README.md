@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 互联网民工，专业编写、生产、倾倒各种代码垃圾
+### 互联网民工，专业编写、生产、倾倒各种代码垃圾，主营GO/Rust
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HynoR)](https://github.com/anuraghazra/github-readme-stats)
