@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 網路民工，專業編寫、生產、傾倒各種代碼垃圾，主營GO/Rust，專業水pr。
+### 網路民工，專業編寫、生產、傾倒各種代碼垃圾，主營GO，專業水pr。
+### 喜欢薄荷巧克力口味的任何东西
