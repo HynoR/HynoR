@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-3A8FB7?style=for-the-badge&logo=python&logoColor=white)
  \ (= v = )
 
-## 🪓 About Me:
+## 🪓 About Me
 
 
   
